@@ -18,7 +18,7 @@ For example, `$ ./calculator add 4 1` will add 4 to 1 and return 5. Surprise, su
 4. `$ ./calculator add 4 1`
 5. DISCO! (or whatever)
 
-## It's return values are weird.
+## The return values are weird.
 
 Yeah, I know. I'm flattening everything down to floats, so Elixir (or probably Erlang) displays output in [E notation](http://en.wikipedia.org/wiki/Scientific_notation#E_notation). Unfortunately I didn't find a sane workaround when I was writing this. Bummer.
 
